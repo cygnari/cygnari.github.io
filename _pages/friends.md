@@ -13,3 +13,4 @@ Some people I know (people listed in no particular order):
 * [Teela Huff](https://teelahuff.com/), a former grad student in linguistics at UCLA
 * [Mason Haberle](https://masonhaberle.github.io/), a grad student in math at NYU
 * [Erika Hathaway](http://www-personal.umich.edu/~hathawae/), a grad student in space science at UM
+* [Lisa Minh](https://lisaminh.github.io/), a grad student in climate science at UM
