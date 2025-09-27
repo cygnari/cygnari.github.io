@@ -28,12 +28,14 @@ Talks
 
 Workshops
 ======
+* Dynamical Core Model Intercomparison Project, 2025
 * Advanced Summer School on Mathematical Fluid Dynamics, 2023
 * Graduate Student Mathematical Modeling Camp, 2022
 * Mathematical Problems in Industry Workshop, 2022
 
 Awards and Grants
 ======
+* Rackham Predoctoral Fellowship, 2025
 * NSF GRFP Fellowship, 2022
 * SIAM Student Travel Grant, 2022, 2023
 * ACM Student Travel Grant, 2022
@@ -49,8 +51,8 @@ Teaching
 
 Service, Leadership, and Mentorship
 ======
-* Directed Reading Program Mentor, 2023
-* Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2023
+* Directed Reading Program Mentor, 2023-2025
+* Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2023-2025
 * Peer Mentor in the Math Department at the University of Michigan, Ann Arbor, 2022, 2023
 * Lab of Geometry Mentor, 2022. Projects mentored:
   * Steady States of Rayleigh-Bénard Convection with Baole Wen

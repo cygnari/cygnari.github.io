@@ -10,10 +10,11 @@ redirect_from:
 
 Hello! I'm Anthony, a PhD student at the University of Michigan, Ann Arbor. I am advised by [Robert Krasny](http://www.math.lsa.umich.edu/~krasny/), [Christiane Jablonowski](http://www-personal.umich.edu/~cjablono/), and [Brian Arbic](https://arbic.earth.lsa.umich.edu/). My PhD is in applied mathematics and scientific computing with a focus on fast algorithms for problems arising in atmospheric and oceanic modeling.
 
-I have at times been described as a coastal elite; I do not take offense to this characterization. My favorite chocolate comes from the Oro de Cacao in Zurich, Switzerland. My favorite animal is the penguin; I almost took a selfie with one while I was in Antarctica. My heart yearns for crashing waves and salty sea breeze. I believe that fanfiction is a valuable form of media, and have been an avid consumer of fan works for the past ten or so years. I have also been playing gacha games in one form or another for the past ten years. The latest I've ever woken up is 8:30 am. My favorite matrix decomposition is the SVD.
+I have at times been described as a coastal elite; I do not take offense to this characterization. My favorite animal is the penguin; I almost took a selfie with one while I was in Antarctica. I believe that fanfiction is a valuable form of media, and have been an avid consumer of fan works for the past ten or so years. I have also been playing gacha games in one form or another for the past fifteen years. The latest I've ever woken up is 8:30 am. My favorite matrix decomposition is the SVD. 
 
 ## Some Upcoming Conferences
-* AGU Annual Meeting, Dec 9-13, Washington D.C. -- I will be presenting a [poster](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1746623)
+* APS DFD Annual Meeting, Nov 23-25, Houston, Texas -- I will be presenting a [DFD-Interact poster](https://schedule.aps.org/dfd/2025/events/C04/3)
+* Ocean Sciences Meeting, Feb 22-27, Glasgow, Scotland
 
 ## Current Research Topics
 * Fast summation on the sphere
@@ -26,8 +27,8 @@ I have at times been described as a coastal elite; I do not take offense to this
 * Protoplanetary disks 
 
 ## Some Hobbies
-* Photography and travel: Thailand in December
-* Video games: currently playing _[Fallen London](https://www.fallenlondon.com/profile/Acamar)_
+* Photography and travel: Hong Kong, Taiwan, and Japan in December/January
+* Video games: currently playing _[Fallen London](https://www.fallenlondon.com/profile/Acamar)_, _Fate/Grand Order_, and _Ensemble Stars!!_
 * Reading: I highly recommend _[Omniscient Reader's Viewpoint](https://orv-epub.carrd.co/)_ and _[Overgeared](https://www.wuxiaworld.com/novel/overgeared)_
 * Anime: find me on [anilist](https://anilist.co/user/angetenar/)
 * I play some piano, occasionally, maybe
@@ -35,7 +36,7 @@ I have at times been described as a coastal elite; I do not take offense to this
 
 ## Other Things I Have Feelings About
 * Urbanism, cities, public transportation
-* Aviation, global connectivity: see my [flight logs](https://openflights.org/user/cygnari)
+* Aviation, global connectivity
 * Climate change
 * Eurovision
 
