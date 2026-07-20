@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Anthony Chen"
-  avatar           : "heisler.png"
-  bio              : "A picture of me at Heisler Beach, November 2023"
-  location         : "Ann Arbor, Michigan"
+  avatar           : "spainpic.jpg"
+  bio              : "A picture of me at Playa de la Arnía in Cantabria, Spain"
+  location         : "Singapore"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "cygnari@umich.edu"
+  email            : "cygnari@nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
